@@ -4,7 +4,7 @@ var player = {
     pacmouth: 320,
     pacdir: 0,
     psize: 32,
-    speed: 5,
+    speed: 6,
 }
 var enemy={
     x:150,
